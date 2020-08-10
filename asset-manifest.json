@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/karan5217/it-logger/static/css/main.36497136.chunk.css",
+    "main.js": "/karan5217/it-logger/static/js/main.d976c514.chunk.js",
+    "main.js.map": "/karan5217/it-logger/static/js/main.d976c514.chunk.js.map",
+    "runtime-main.js": "/karan5217/it-logger/static/js/runtime-main.cbba5c9e.js",
+    "runtime-main.js.map": "/karan5217/it-logger/static/js/runtime-main.cbba5c9e.js.map",
+    "static/css/2.36020323.chunk.css": "/karan5217/it-logger/static/css/2.36020323.chunk.css",
+    "static/js/2.dd804ba2.chunk.js": "/karan5217/it-logger/static/js/2.dd804ba2.chunk.js",
+    "static/js/2.dd804ba2.chunk.js.map": "/karan5217/it-logger/static/js/2.dd804ba2.chunk.js.map",
+    "index.html": "/karan5217/it-logger/index.html",
+    "precache-manifest.2966f059d741e3082f793a2b8fc24c92.js": "/karan5217/it-logger/precache-manifest.2966f059d741e3082f793a2b8fc24c92.js",
+    "service-worker.js": "/karan5217/it-logger/service-worker.js",
+    "static/css/2.36020323.chunk.css.map": "/karan5217/it-logger/static/css/2.36020323.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/karan5217/it-logger/static/css/main.36497136.chunk.css.map",
+    "static/js/2.dd804ba2.chunk.js.LICENSE.txt": "/karan5217/it-logger/static/js/2.dd804ba2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbba5c9e.js",
+    "static/css/2.36020323.chunk.css",
+    "static/js/2.dd804ba2.chunk.js",
+    "static/css/main.36497136.chunk.css",
+    "static/js/main.d976c514.chunk.js"
+  ]
+}
